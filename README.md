@@ -2,8 +2,9 @@ Problem Statement
 
 		Credit card fraud has become a significant challenge in the digital economy due to the rapid growth of online transactions and cashless payments. 
 		Fraudulent activities not only result in substantial financial losses for banks and customers but also reduce trust in digital financial systems.
-		Detecting fraudulent transactions is difficult because fraud patterns constantly evolve and the dataset is highly imbalanced, with very few fraud cases 		compared to genuine transactions.
-		This project aims to develop a machine learning-based fraud detection system that can accurately identify suspicious transactions using key behavioral 			features such as transaction amount, transaction category, location population, user age, and transaction time. 
+		Detecting fraudulent transactions is difficult because fraud patterns constantly evolve and the dataset is highly imbalanced, with very few fraud 
+		cases compared to genuine transactions.This project aims to develop a machine learning-based fraud detection system that can accurately identify suspicious
+		transactions using key behavioral ,features such as transaction amount, transaction category, location population, user age, and transaction time. 
 		The system leverages techniques like SMOTE to handle data imbalance and improve the model’s ability to detect rare fraud cases.
 
 Aim of the Project
