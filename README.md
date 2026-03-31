@@ -21,8 +21,6 @@ Specific objectives include:
 
 Implications of the Project
 
-This project has important real-world applications in the financial and banking sector:
-
  	Improved Fraud Detection: Helps banks identify fraudulent transactions quickly and accurately
  	Financial Loss Reduction: Minimizes losses caused by unauthorized transactions
  	Enhanced Security: Strengthens digital payment systems and customer trust
